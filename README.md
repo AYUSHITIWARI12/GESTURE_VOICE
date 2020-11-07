@@ -24,7 +24,7 @@ tflearn : 0.3.2
 
 #instal tflearn
 
-#install talky
+#install talkey
 
 #install espeak
 
