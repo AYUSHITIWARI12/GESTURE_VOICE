@@ -43,6 +43,7 @@ tflearn : 0.3.2
 ![cc](https://user-images.githubusercontent.com/47920126/98439279-d87d0080-2116-11eb-87a0-17aa48e312a4.PNG)
 
  # Traning Phase
+![traning](https://user-images.githubusercontent.com/47920126/98439337-432e3c00-2117-11eb-9891-9a92e8bc396e.PNG)
 
 
 
