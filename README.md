@@ -6,14 +6,14 @@ Design and Implementation of Conversion of Gesture to Voice using OpenCV  +and C
 
 PACKAGES
 
-install python-pip
-install python3-pip--reinstall
-install openCV-contrib-python
-install tensorflow==1.14.0
-instal tflearn
-install talky
-install espeak
-install imutils
+#install python-pip
+#install python3-pip--reinstall
+#install openCV-contrib-python
+#install tensorflow==1.14.0
+#instal tflearn
+#install talky
+#install espeak
+#install imutils
 
 
 
