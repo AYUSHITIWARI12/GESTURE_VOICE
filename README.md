@@ -30,7 +30,7 @@ tflearn : 0.3.2
 
 #install imutils
 
-# Output OF THE PROJECT
+# Output of the project
 ![c](https://user-images.githubusercontent.com/47920126/98439191-29402980-2116-11eb-865f-fd43f2bdea4a.PNG)
 
 ![v](https://user-images.githubusercontent.com/47920126/98439231-7d4b0e00-2116-11eb-9e70-be0e141c1cc3.PNG)
