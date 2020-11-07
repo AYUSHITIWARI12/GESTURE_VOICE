@@ -1,8 +1,7 @@
 # GESTURE_VOICE
 Design and Implementation of Conversion of Gesture to Voice using OpenCV  +and Convolution Neural Network
 
-
-SOFTWARE SPECIFICATION
+# SOFTWARE SPECIFICATION
 
 OpenCV-python  : 4.3.0.36
 
@@ -13,8 +12,7 @@ Tensorflow version : 1.14.0
 tflearn : 0.3.2
 
 
-
-PACKAGES
+# PACKAGES
 
 #install python-pip
 
@@ -31,6 +29,7 @@ PACKAGES
 #install espeak
 
 #install imutils
+
 
 
 
